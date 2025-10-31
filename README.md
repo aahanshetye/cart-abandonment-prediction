@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌎 E-commerce Shopi
 
 <img width="15%" align="right" style="margin:5%" alt="logo" src="https://res.cloudinary.com/silviajcn/image/upload/v1683168997/PRACTICAS/Varios/shopping_h7sjdf.png" />
@@ -77,3 +78,6 @@ https://shopi-app.netlify.app/
 * **My portfolio** - [My portfolio](https://silviajcn.vercel.app/)
 
     [![Twitter Badge](https://img.shields.io/badge/-@lectoramigrante-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lectoramigrante)](https://twitter.com/lectoramigrante)
+=======
+# cart-abandonment-prediction
+>>>>>>> f6b7212e0f8e73fd59e456274b986d1af55e3d60
